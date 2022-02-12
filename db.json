@@ -7,6 +7,14 @@
       "createdAt": 1644673371315,
       "updatedAt": 1644673371315,
       "id": 2
+    },
+    {
+      "name": "SaLad",
+      "description": "Lorem ipsum dolor sit amet consec adipisicing elit.",
+      "image": "https://raw.githubusercontent.com/carydeep/json-food-delivery/main/public/salad-catagory.png",
+      "createdAt": 1644674338320,
+      "updatedAt": 1644674338320,
+      "id": 3
     }
   ]
 }
