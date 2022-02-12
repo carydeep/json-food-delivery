@@ -1,0 +1,12 @@
+{
+  "categories": [
+    {
+      "name": "Fast Food",
+      "description": "burgers,hamburgers,hot dogs, fries, nuggets",
+      "image": "https://raw.githubusercontent.com/carydeep/json-food-delivery/main/public/fastfood-category.png",
+      "createdAt": 1644673371315,
+      "updatedAt": 1644673371315,
+      "id": 2
+    }
+  ]
+}

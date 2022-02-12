@@ -1,8 +1,15 @@
+GET http://localhost:3000/categories
+
+###
+
 POST http://localhost:3000/categories
 Content-Type: application/json
 
 {
     "name":"Fast Food",
     "description":"burgers,hamburgers,hot dogs, fries, nuggets",
-    "image":""
+    "image":"https://raw.githubusercontent.com/carydeep/json-food-delivery/main/public/fastfood-category.png"
 }
+
+###
+DELETE  http://localhost:3000/categories/1
