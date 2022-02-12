@@ -15,6 +15,30 @@
       "createdAt": 1644674338320,
       "updatedAt": 1644674338320,
       "id": 3
+    },
+    {
+      "name": "Fruit",
+      "description": "Exotic fruits, reviews, legumes, frains.",
+      "image": "https://raw.githubusercontent.com/carydeep/json-food-delivery/main/public/fruit-category.png",
+      "createdAt": 1644674927229,
+      "updatedAt": 1644674927229,
+      "id": 4
+    },
+    {
+      "name": "Side Dishes",
+      "description": "sushi, rolls, sauces, poppies,seafood, fish.",
+      "image": "https://raw.githubusercontent.com/carydeep/json-food-delivery/main/public/side-dishes-category.png",
+      "createdAt": 1644675043136,
+      "updatedAt": 1644675043136,
+      "id": 5
+    },
+    {
+      "name": "Drink",
+      "description": "Lorem ipsum dolor sit amet consec adipisicing elit.",
+      "image": "https://raw.githubusercontent.com/carydeep/json-food-delivery/main/public/drink-category.png",
+      "createdAt": 1644675132264,
+      "updatedAt": 1644675132264,
+      "id": 6
     }
   ]
 }

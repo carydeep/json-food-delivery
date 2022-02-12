@@ -18,7 +18,27 @@ Content-Type: application/json
 {
     "name":"Fruit",
     "description":"Exotic fruits, reviews, legumes, frains.",
-    "image":"https://raw.githubusercontent.com/carydeep/json-food-delivery/main/public/salad-catagory.png"
+    "image":"https://raw.githubusercontent.com/carydeep/json-food-delivery/main/public/fruit-category.png"
+}
+
+###
+POST http://localhost:3000/categories
+Content-Type: application/json
+
+{
+    "name":"Side Dishes",
+    "description":"sushi, rolls, sauces, poppies,seafood, fish.",
+    "image":"https://raw.githubusercontent.com/carydeep/json-food-delivery/main/public/side-dishes-category.png"
+}
+
+###
+POST http://localhost:3000/categories
+Content-Type: application/json
+
+{
+    "name":"Drink",
+    "description":"Lorem ipsum dolor sit amet consec adipisicing elit.",
+    "image":"https://raw.githubusercontent.com/carydeep/json-food-delivery/main/public/drink-category.png"
 }
 
 ###
