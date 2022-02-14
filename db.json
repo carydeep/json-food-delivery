@@ -22,7 +22,7 @@
       "image": "https://raw.githubusercontent.com/carydeep/json-food-delivery/main/public/fruit-category.png",
       "createdAt": 1644674927229,
       "updatedAt": 1644674927229,
-      "id": 4
+      "id": 6
     },
     {
       "name": "Side Dishes",
@@ -38,7 +38,7 @@
       "image": "https://raw.githubusercontent.com/carydeep/json-food-delivery/main/public/drink-category.png",
       "createdAt": 1644675132264,
       "updatedAt": 1644675132264,
-      "id": 6
+      "id": 4
     }
   ],
   "food": [
