@@ -1,0 +1,28 @@
+GET http://localhost:3000/food
+###
+POST http://localhost:3000/food
+Content-Type: application/json
+
+{
+    "name":"Guava",
+    "description":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Sed consectetur",
+    "image":"https://raw.githubusercontent.com/carydeep/json-food-delivery/main/public/fruit/guava.png",
+    "category":6,
+    "price":48,
+    "weight":290,
+    "trend":"none"
+}
+
+###
+POST http://localhost:3000/food
+Content-Type: application/json
+
+{
+    "name":"Yellow Rice",
+    "description":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Sed consectetur",
+    "image":"https://raw.githubusercontent.com/carydeep/json-food-delivery/main/public/side-dishes/yellow-rice.png",
+    "category":5,
+    "price":48,
+    "weight":290,
+    "trend":"none"
+}
