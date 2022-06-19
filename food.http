@@ -28,9 +28,14 @@ Content-Type: application/json
 }
 
 ###
-POST https://food-delivery-web-demo.herokuapp.com/orderDeliver
+POST http://localhost:3000/orderDeliver
 Content-Type: application/json
 
 {
     "test":"hahaha"
 }
+
+###
+GET http://localhost:3000/orderDeliver
+Content-Type: application/json
+
