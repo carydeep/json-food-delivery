@@ -26,3 +26,11 @@ Content-Type: application/json
     "weight":290,
     "trend":"none"
 }
+
+###
+POST https://food-delivery-web-demo.herokuapp.com/orderDeliver
+Content-Type: application/json
+
+{
+    "test":"hahaha"
+}
