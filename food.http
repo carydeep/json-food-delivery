@@ -39,3 +39,7 @@ Content-Type: application/json
 GET http://localhost:3000/orderDeliver
 Content-Type: application/json
 
+###
+GET https://dev-zf35jlfg.us.auth0.com/api/v2/users
+Content-Type: application/json
+
